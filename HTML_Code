@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#portfolio">Portfolio</a></li>
+                <li><a href="#skills">Skills</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Hello, I'm Shivam Batra</h2>
+            <p>I am currently persuing BCA from Somaiya Vidyavihar University,Mumbai. I completed my 10+2 from Christu Jyoti Convemt School, Ujjain, which is my hometown. My aim is to be a good professional software developer and acquire a High paying job.</p>
+        </section>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hardworking and passionate job seeker with strong organizational skills eager to secure entry-level Job position. Ready to help team achieve company goals. Organized and dependable candidate successful at managing multiple priorities with a positive attitude. Willingness to take on added responsibilities to meet team goals.</p>
+        </section>
+        <section id="portfolio">
+            <h2>Portfolio</h2>
+            <p>COMMERCE MATHS , (10+2)
+
+Christu Jyoti Convent School, Ujjain ,
+
+2021-2023 , 
+
+BACHELOR OF COMPUTER APPLICATION ,
+
+Somaiya Vidyavihar University ,
+
+2023-2026
+            </p>
+        </section>
+        <section id="skills">
+            <h2>Skills</h2>
+            <p>Active Listening
